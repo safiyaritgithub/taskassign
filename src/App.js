@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router,Routes,Route } from "react-router-dom";
 import {Navbar} from './components/navbar'
-import {Signupform} from './pages/signupform'
-import {Loginform} from './pages/loginform'
-import {Home} from './pages/home'
+import {Signupform} from './pages/signup/signup'
+import {Loginform} from './pages/login/login'
+import {Home} from './pages/home/home'
 
 
 
